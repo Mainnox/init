@@ -1,0 +1,1 @@
+ssh -p (Numero du port) (Nom de user)@(Nom de la VM)

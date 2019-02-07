@@ -1,0 +1,2 @@
+Avec la commande: cat /etc/resolv.conf
+On peut retrouver l'IP du ou des DNS sur lequel nous sommes.
