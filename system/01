@@ -1,1 +1,1 @@
-Le fichier ce trouve dans /etc de la VM
+cat /etc/debian_version
