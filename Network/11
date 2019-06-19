@@ -1,4 +1,0 @@
-Avec la commande traceroute on peut voir le chemin de notre requete
-Les 5 premieres lignes sont toujours les memes mais celles que l'on veut sont les 4 et 5
-Le 4 est l'ip du routeur et le 5 est son nom
-Et c'est cela qui fait la jointure entre le local et l'exterieur

@@ -1,3 +1,0 @@
-Avec la commande: dig NS slash16.org | grep tNSt | cut -d S -f2
-On peut voir "awsdns" qui est le servise d'hebergement DNS d'Amazon
-Donc l'hebergeur de Slash16 est Amazon

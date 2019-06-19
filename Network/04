@@ -1,1 +1,0 @@
-route get default | grep gateway | cut -d ':' -f2 | cut -d ' ' -f2
