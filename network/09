@@ -1,1 +1,2 @@
-dig @resolver1.opendns.com ANY 42.fr +short | head -1
+dig @resolver1.opendns.com ANY 42.fr +short | grep 12 && dig @resolver1.opendns.com ANY 42.fr +short | grep 11
+echo "163.172.250.11"

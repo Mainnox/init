@@ -1,1 +1,1 @@
-dig +noall +answer -x 10.13.6.3
+dig +noall +answer -x `sh 12`
