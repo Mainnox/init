@@ -1,0 +1,4 @@
+echo "Installation..."
+apt-get install sudo curl make gcc vim zsh net-tools build-essential git;
+sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+echo "Et un pc pret pour init.\nUN !";
